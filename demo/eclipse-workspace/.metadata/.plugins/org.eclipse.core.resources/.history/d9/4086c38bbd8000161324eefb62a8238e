@@ -3,6 +3,8 @@ import java.util.*;
 
 import com.sun.security.auth.callback.TextCallbackHandler;
 import Employee.contractEmployee.Contractor;
+import Employee.contractEmployee.TechAssociate;
+import Employee.permanentEmployee.*;
 import java.text.SimpleDateFormat;
 import myUtility.*;
 import Employee.*;
@@ -16,6 +18,9 @@ private static int contractno;
 private static int permanentno;
 
 public static void main(String[] args){
+	
+TechAssociate t;	
+
 	
 scan=new Scanner(System.in);
 contractor=new Contractor("Mohit");

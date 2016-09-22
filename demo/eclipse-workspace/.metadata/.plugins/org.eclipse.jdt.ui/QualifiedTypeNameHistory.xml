@@ -10,4 +10,16 @@
 <fullyQualifiedTypeName name="PermanentEmployee"/>
 <fullyQualifiedTypeName name="ContractEmployee"/>
 <fullyQualifiedTypeName name="Contractor.ContractEmployee"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="EmployeeNotFoundException"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.impl.javax.rmi.CORBA.Util"/>
+<fullyQualifiedTypeName name="Employee.Employee"/>
+<fullyQualifiedTypeName name="Employee.permanentEmployee.PermanentEmployee"/>
+<fullyQualifiedTypeName name="Employee.contractEmployee.Contractor.ContractEmployee"/>
+<fullyQualifiedTypeName name="myUtility.Mediclaim"/>
+<fullyQualifiedTypeName name="com.sun.security.auth.callback.TextCallbackHandler"/>
+<fullyQualifiedTypeName name="Employee.contractEmployee.Contractor"/>
+<fullyQualifiedTypeName name="Employee.permanentEmployee.TechAssociate"/>
 </qualifiedTypeNameHistroy>

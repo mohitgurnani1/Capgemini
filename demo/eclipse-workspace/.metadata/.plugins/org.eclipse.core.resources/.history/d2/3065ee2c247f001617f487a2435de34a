@@ -1,0 +1,10 @@
+
+public class PermanentEmployee extends Employee {
+	protected static int count=0;
+
+	public PermanentEmployee(String fname, String lname, double salary, String grade, MyDate joiningmonth) {
+		super(fname, lname, salary, grade, joiningmonth);
+		count++;
+	}
+
+}

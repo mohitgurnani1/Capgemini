@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.barclays.Person"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.barclays.Mohit"/>
+<fullyQualifiedTypeName name="com.barclays.Tp"/>
+<fullyQualifiedTypeName name="com.barclays.Tp.Mohit"/>
+<fullyQualifiedTypeName name="com.barclays.Entry.Dimple"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.impl.ior.GenericTaggedComponent"/>
+<fullyQualifiedTypeName name="PermanentEmployee"/>
+<fullyQualifiedTypeName name="ContractEmployee"/>
+<fullyQualifiedTypeName name="Contractor.ContractEmployee"/>
+</qualifiedTypeNameHistroy>

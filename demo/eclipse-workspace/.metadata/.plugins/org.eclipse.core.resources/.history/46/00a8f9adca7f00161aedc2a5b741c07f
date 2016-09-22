@@ -1,0 +1,39 @@
+
+public class Contractor {
+
+	private String name;
+	int countCE=0;
+	
+	public Contractor(String name){
+		this.name=name;
+	}
+	public String getName(){
+		return name;
+	}
+	
+	 class ContractEmployee extends Employee{
+
+			String contractorName;
+			
+			protected double salary;
+			public ContractEmployee(String fname, String lname, int i, int j, String grade, MyDate md, String contractorName) {
+				super(fname, lname,  0,grade,md);
+				this.contractorName=contractorName;
+				salary=i*j;
+				countCE++;
+			}
+
+			public  String getContractorName(){
+				return contractorName;
+			}
+			
+
+			
+		}
+
+
+		public int countCEmployee(){
+		return countCE;
+		}	
+	
+}

@@ -1,0 +1,17 @@
+
+public class ContractEmployee extends Employee{
+
+	public ContractEmployee(String fname, String lname, double salary, String grade, MyDate joiningmonth) {
+		super(fname, lname, salary, grade, joiningmonth);
+		// TODO Auto-generated constructor stub
+	}
+
+	protected double salary;
+	
+	void calculateSalary(int ratePerHr, int noOfHrs){
+		salary=ratePerHr*noOfHrs;
+	}
+	
+	
+	
+}

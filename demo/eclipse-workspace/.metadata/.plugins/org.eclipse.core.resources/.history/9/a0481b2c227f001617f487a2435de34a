@@ -1,0 +1,18 @@
+import com.sun.corba.se.impl.ior.GenericTaggedComponent;
+
+public class ContractEmployee extends Employee{
+
+	String contractorName;
+	
+	public ContractEmployee(String fname, String lname, String grade, MyDate joiningmonth,int ratePerHr,int noOfHrs,String contractorName) {
+		super(fname, lname,  ratePerHr*noOfHrs , grade, joiningmonth);
+		// TODO Auto-generated constructor stub
+	this.contractorName=contractorName;
+	}
+
+	public String getContractorName(){
+		return contractorName;
+	}
+	
+	
+}

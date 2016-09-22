@@ -1,0 +1,5 @@
+package Employee.permanentEmployee;
+
+public class ProjectManager extends PermanentEmployee{
+
+}

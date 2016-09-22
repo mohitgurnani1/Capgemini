@@ -1,0 +1,42 @@
+package tp;
+
+import java.io.IOException;
+
+public class sampleException {
+
+	static int r;
+	public static void main(String[] args){
+		
+		System.out.println("hi");
+		try{
+		setValue(5,0);
+		}
+		catch(ArithmeticException e){
+			e.printStackTrace();
+		setValue(5,1);
+		}
+		finally{
+			System.out.println("b4 good bye");
+		}
+		System.out.println("bye "+r);
+		
+		
+	
+		
+
+	}		
+	static public void setValue(int val,int den) throws Exception {
+		
+		try{
+		throw new Exception("Mohit");
+		}
+		finally{
+			
+			System.out.println("in setvalue final");
+		}
+		
+	}
+	
+	
+	
+}

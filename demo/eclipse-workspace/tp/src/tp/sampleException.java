@@ -7,7 +7,13 @@ public class sampleException {
 	static int r;
 	public static void main(String[] args) throws Exception{
 		
-		System.out.println("hi");
+		
+			    String a = "\n";      // 1
+			    String b = "\r";      // 2
+		
+			    //    String c = "\n"; 
+		
+	/*	System.out.println("hi");
 		try{
 		setValue(5,0);
 		}
@@ -18,7 +24,7 @@ public class sampleException {
 		System.out.println("bye "+r);
 		
 		
-	
+	*/
 		
 
 	}		

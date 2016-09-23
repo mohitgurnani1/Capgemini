@@ -1,0 +1,26 @@
+import static org.junit.Assert.*;
+
+import org.junit.Assert;
+import org.junit.Ignore;
+import org.junit.Test;
+
+public class TestStringSample {
+
+	@Test
+	@Ignore
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void someString(){
+		String msg1=new String("hello");
+		String msg2="hello";
+		String msg3="hello";
+		Assert.assertEquals(msg1,msg3);
+		
+	}
+	
+	
+	
+}

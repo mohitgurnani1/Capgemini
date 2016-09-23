@@ -18,8 +18,15 @@
 <fullyQualifiedTypeName name="Employee.Employee"/>
 <fullyQualifiedTypeName name="Employee.permanentEmployee.PermanentEmployee"/>
 <fullyQualifiedTypeName name="Employee.contractEmployee.Contractor.ContractEmployee"/>
-<fullyQualifiedTypeName name="myUtility.Mediclaim"/>
 <fullyQualifiedTypeName name="com.sun.security.auth.callback.TextCallbackHandler"/>
 <fullyQualifiedTypeName name="Employee.contractEmployee.Contractor"/>
 <fullyQualifiedTypeName name="Employee.permanentEmployee.TechAssociate"/>
+<fullyQualifiedTypeName name="org.junit.Ignore"/>
+<fullyQualifiedTypeName name="BarclaysEmployee.contractEmployee.TechAssociate"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="BarclaysEmployee.permanentEmployee.ProjectManager"/>
+<fullyQualifiedTypeName name="BarclaysEmployee.permanentEmployee.TechAssociate"/>
+<fullyQualifiedTypeName name="LinkedList.Node"/>
+<fullyQualifiedTypeName name="myUtility.Mediclaim"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
 </qualifiedTypeNameHistroy>

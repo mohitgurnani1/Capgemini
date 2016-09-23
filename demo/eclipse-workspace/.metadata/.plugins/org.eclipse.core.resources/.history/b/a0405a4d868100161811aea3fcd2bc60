@@ -1,0 +1,29 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		LinkedList<String> l=new LinkedList<String>();
+		
+		 l.add("Mohit");
+		 l.add("Laxman");
+		 l.add("Kavita");
+		 l.display();
+		 l.delete("Mohit");
+		 l.display();
+	
+
+			LinkedList<Integer> lm=new LinkedList<Integer>();
+			
+			 lm.add(1);
+			 lm.add(2);
+			 lm.add(3);
+			 lm.display();
+			 lm.delete(2);
+			 lm.display();
+	
+			 java.util.LinkedList mohit;
+			 
+	}
+
+}

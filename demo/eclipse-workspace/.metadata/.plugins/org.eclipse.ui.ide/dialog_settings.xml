@@ -8,6 +8,8 @@
 			<item value=""/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\git\Capgemini\demo\eclipse-workspace\demo-collections.zip"/>
+			<item value="D:\git\Capgemini\demo\eclipse-workspace\demo-collections-2.zip"/>
 			<item value="D:\dev\demo\demo-exception-handling.zip"/>
 			<item value="\\DIN51001873\dev\demo\demo-inheritance.zip"/>
 		</list>

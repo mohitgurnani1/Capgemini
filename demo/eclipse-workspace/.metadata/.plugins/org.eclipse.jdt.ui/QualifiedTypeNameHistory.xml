@@ -29,4 +29,6 @@
 <fullyQualifiedTypeName name="LinkedList.Node"/>
 <fullyQualifiedTypeName name="myUtility.Mediclaim"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="EmpKey"/>
 </qualifiedTypeNameHistroy>

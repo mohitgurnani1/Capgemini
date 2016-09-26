@@ -6,6 +6,7 @@ import myUtility.*;
 	 private String contractorId;
 	private String name;
 	private int countCE=0;
+	static int countTotalContractBasedEmployees;
 	
 	public Contractor(String name){
 		this.name=name;
@@ -25,6 +26,7 @@ abstract	 public class ContractEmployee extends Employee{
 				Contractor.this.name=name;		
 				contractorId="CN00"+name.substring(0,2);
 				countCE++;
+				countTotalContractBasedEmployees++;
 			}
 
 		

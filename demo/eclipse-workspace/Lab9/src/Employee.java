@@ -6,7 +6,7 @@ private String lastName;
 protected double salary;
 private String grade;
 private MyDate joiningMonth;
-private String empid;
+private EmpKey empid;
 protected static int count=0;
 
 public Employee(String fname,String lname,double salary,String grade,MyDate joiningmonth){
@@ -18,9 +18,12 @@ this.joiningMonth=joiningmonth;
 count++;
 }
 
+public EmpKey getEmpId(){
+return empid;
+}
 
-public void setEmpId(String empid){
-this.empid=empid;
+public void setEmpId(EmpKey ek){
+this.empid=ek;
 }
 
 public static int countEmployee(){
@@ -35,8 +38,8 @@ public void setDate(MyDate md){
 	this.joiningMonth=md;
 }
 
-
-public String printInformation() {
+@Override
+public String toString() {
 return firstName+","+lastName+","+grade+","+joiningMonth;
 }
 

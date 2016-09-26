@@ -1,0 +1,9 @@
+
+public class EmpKey {
+
+	
+	public EmpKey(String dept,String name,int count){
+		
+	}
+	
+}

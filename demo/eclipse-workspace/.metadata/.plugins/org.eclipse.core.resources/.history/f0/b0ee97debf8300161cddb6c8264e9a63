@@ -1,0 +1,18 @@
+
+public class EmpKey {
+
+	String dept;
+	String name;
+	int count;
+	public EmpKey(String dept,String name,int count){
+		this.dept=dept;
+		this.name=name;
+		this.count=count;
+	}
+	
+	@Override
+	public String toString(){
+		return dept.substring(0,1)+String.format("%03d", count)+name;
+	}
+	
+}

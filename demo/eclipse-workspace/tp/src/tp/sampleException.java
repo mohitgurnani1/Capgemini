@@ -8,24 +8,13 @@ public class sampleException {
 	public static void main(String[] args) throws Exception{
 		
 		
-			    String a = "\n";      // 1
-			    String b = "\r";      // 2
-		
-			    //    String c = "\n"; 
-		
-	/*	System.out.println("hi");
-		try{
-		setValue(5,0);
-		}
-		finally{
-		setValue(3, 2);
-			System.out.println("b4 good bye");
-		}
-		System.out.println("bye "+r);
-		
-		
-	*/
-		
+		String a = "abcd";          // 1
+	    String b = "'\u0041'";      // 2
+	    String c = "\u0041";        // 3
+	    String d = "\uD7AF";        // 4
+	  ;
+
+//	  System.out.print(m);  // 5
 
 	}		
 	static public void setValue(int val,int den) throws Exception {

@@ -10,4 +10,6 @@ class D extends C {
 	  }
 	  public static void main (String[] args) {
 	    new D().m2(); // 4
-	}}
+	   
+	  
+	  }}

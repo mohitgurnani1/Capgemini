@@ -1,0 +1,13 @@
+import Bank.Bank;
+public class Main {
+
+	public static void main(String[] args){
+		
+		Bank b=new Bank(1, "Barclays");
+		Runnable tellerAgent=new TellerAgent(b, 1);
+	    (new Thread(tellerAgent)).start();
+		
+	}
+	
+	
+}

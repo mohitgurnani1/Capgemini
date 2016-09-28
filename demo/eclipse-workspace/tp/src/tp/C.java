@@ -1,37 +1,19 @@
 package tp;
-class C extends B {
-	  String s1 = "C";
-	  public int r=3;
-	  void printIt() {
-	    System.out.print(((A)this).s1 + ((B)this).s1 +
-	                     ((C)this).s1 + ((I)this).s1);
-	  }
-	  void print2() {
-		  C c=this;
-		  A a=c;
-		  B b=c;
-		     
-		  
-		  System.out.print(a.r+" "+b.r+" "+c.r);
-		  }
-		  
-	  
-	  
-	  public void run(){
-			System.out.println("C");
-		}
 
-	  public static void main (String[] args) {
-		  new C().print2();
-		  
-	  C c=new C();
-	  A a=c;
-	  B b=c;
-	//  c.run();
-	 // b.run();
-	 // a.run();
-	  
-	  
-	  
+
+class C {
+  int x;                                    // 1
+/*0
+  public static void get(long x){
+	  System.out.println("long");
+  }
+  */
+  public static  void get(Integer x){
+	  System.out.println("integer");
+  }
+  public static void main(String[] args) {  // 2
+get(2);
 	  }
-	}
+
+  
+}

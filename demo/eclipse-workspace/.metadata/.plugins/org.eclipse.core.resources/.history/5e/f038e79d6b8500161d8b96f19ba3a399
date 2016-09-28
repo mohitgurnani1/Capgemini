@@ -1,0 +1,18 @@
+
+public class Produce implements Runnable {
+
+	Container c;
+	
+	public Produce(Container c){
+		this.c=c;
+	}
+	
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		c.put();
+		
+	}
+	
+}

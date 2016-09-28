@@ -1,0 +1,14 @@
+package tp;
+
+
+class C {
+  public static void main (String[] args) {
+	  float fd=3;
+	  Float f=3F;
+	  Float m=3F;
+	  
+	  System.out.println(f==m);
+  
+  
+  }
+}

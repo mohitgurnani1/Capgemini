@@ -1,0 +1,13 @@
+
+public class Client {
+
+	public static void main(String[] args){
+
+	 Runnable runnable=new MyThread();
+     Thread myThread=new Thread(runnable);
+     myThread.start();
+	
+	
+	}
+
+}

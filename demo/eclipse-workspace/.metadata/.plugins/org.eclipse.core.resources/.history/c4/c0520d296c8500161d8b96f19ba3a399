@@ -1,0 +1,29 @@
+
+public class Container {
+private int size;
+
+
+public void get(){
+	
+	while(size>=0)
+		{
+		System.out.println(Thread.currentThread().getName()+" : Produced  : size="+size);
+		size--;
+		}
+		
+}
+
+public void put(){
+	
+	
+	while(size<=5)         //condition
+		{
+		System.out.println(Thread.currentThread().getName()+" : Consumed  : size="+size);
+		size++;
+		}
+	
+	
+}
+
+
+}

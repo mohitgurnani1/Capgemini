@@ -1,0 +1,50 @@
+
+public class Account {
+private int id;
+private double balance;
+private Customer customer;
+
+public Account(int id,double balance, Customer c){
+	this.id=id;
+	this.balance=balance;
+	this.customer=c;
+}
+
+public int getId(){
+	return id;
+}
+
+public double getbalance(){
+	return balance;
+}
+
+public boolean deposit(double amount){
+	double balance=this.balance; //READ
+	balance+=amount;  // MODIFY	
+	try {
+		Thread.sleep(1000);
+	} catch (InterruptedException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+	this.balance=balance;  //update
+	return true;
+}
+
+public boolean withdraw(double amount){
+	double balance=this.balance; //READ
+	balance-=amount;  // MODIFY	
+	try {
+		Thread.sleep(1000);
+	} catch (InterruptedException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+	this.balance=balance;  //update
+	return true;
+}
+
+
+
+	
+}

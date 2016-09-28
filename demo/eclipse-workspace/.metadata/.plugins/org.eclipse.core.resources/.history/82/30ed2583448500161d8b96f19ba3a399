@@ -1,0 +1,29 @@
+import java.util.List;
+
+public class Bank {
+private int bankid;
+private String bankName;
+List<Account> accounts;
+private static int acctCount;
+
+public Bank(int bankid, String bankName) {
+	this.bankid = bankid;
+	this.bankName = bankName;
+}
+
+public void addAccount(Customer c, double balance){
+acctCount++;	
+accounts.add(new Account(acctCount,balance,c));
+}
+
+public double showTotalBalance(){
+	double totalbalance=0;
+	for(Account i:accounts){
+		totalbalance+=i.getbalance();
+	}
+	return totalbalance;
+}
+
+
+
+}

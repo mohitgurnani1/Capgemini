@@ -1,0 +1,17 @@
+package tp;
+
+
+class C {
+  int x;                                    // 1
+	  public static void main(String[] args) {  // 2
+	 C c=new C();
+		  int y = 0;                              // 3
+		  byte bn=
+	   // System.out.print(c.x+",");                // 4
+	    //System.out.print(y);                   
+char m='\u000c';	    
+	    // 5
+	}
+
+  
+}

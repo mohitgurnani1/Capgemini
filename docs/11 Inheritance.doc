@@ -39,8 +39,8 @@
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 
 \snext11 \ssemihidden \sunhideused \sqformat Normal Table;}{\*\cs15 \additive \rtlch\fcs1 \ab\af31503\afs32 \ltrch\fcs0 \b\fs32\kerning32\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink1 \slocked \spriority9 Heading 1 Char;}{\*\cs16 \additive 
 \rtlch\fcs1 \ab\ai\af31503\afs28 \ltrch\fcs0 \b\i\fs28\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink2 \slocked \ssemihidden \spriority9 Heading 2 Char;}}{\*\rsidtbl \rsid358974\rsid744478\rsid1058020\rsid3284782\rsid8945561\rsid9246910
-\rsid9451200\rsid10490615\rsid10778026\rsid12268921\rsid13578300\rsid14158031\rsid15939040\rsid16604538}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info
-{\author Step-Ahead}{\operator training}{\creatim\yr2009\mo3\dy5\hr2\min5}{\revtim\yr2016\mo9\dy21\hr16\min59}{\version15}{\edmins283}{\nofpages17}{\nofwords1958}{\nofchars10901}{\nofcharsws12834}{\vern32775}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft
+\rsid9451200\rsid10490615\rsid10778026\rsid12268921\rsid13400280\rsid13578300\rsid14158031\rsid15939040\rsid16604538}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info
+{\author Step-Ahead}{\operator training}{\creatim\yr2009\mo3\dy5\hr2\min5}{\revtim\yr2016\mo9\dy27\hr10\min24}{\version16}{\edmins378}{\nofpages17}{\nofwords1926}{\nofchars10980}{\nofcharsws12881}{\vern32775}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft
 .com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\trackmoves1\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\noxlattoyen
 \expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale125\nolnhtadjtbl\rsidroot15939040 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar 
@@ -80,7 +80,8 @@ e number of constructor invocations that may appear in any constructor body can 
 \widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow5\irowband5\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth8415\clshdrawnil \cellx8685\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\insrsid1058020 
+\par }{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 A,\hich\af1\dbch\af31505\loch\f1 D}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 2
 \par }\pard\plain \ltrpar\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af1\afs28 
@@ -115,7 +116,7 @@ Static methods declared in this class or any superclass.\cell }\pard \ltrpar\ql 
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5627\clshdrawnil \cellx5897\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
 \f1\fs28\insrsid1058020\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
-\ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid8945561 
+\ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 B,\hich\af1\dbch\af31505\loch\f1 d,e,f}{\rtlch\fcs1 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid8945561 
 \par 
 \par }{\rtlch\fcs1 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 3
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
@@ -162,7 +163,7 @@ Static methods declared in this class or any superclass.\cell }\pard \ltrpar\ql 
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2768\clshdrawnil \cellx3038\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
 \f1\fs28\insrsid1058020\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
-\ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid744478 
+\ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 g}{\rtlch\fcs1 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid744478 
 \par 
 \par 
 \par 
@@ -199,7 +200,8 @@ What is the result of attempting to compile and run the program?
 }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow3\irowband3\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth1935\clshdrawnil \cellx2205\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\insrsid1058020 
+\par }{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 a}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 5
 \par }\pard\plain \ltrpar\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af1\afs28 
@@ -225,7 +227,7 @@ The relationship between a class and an object referenced by a field within the 
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth8415\clshdrawnil \cellx8685\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
 \f1\fs28\insrsid1058020\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
-\ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid744478 
+\ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 B,\hich\af1\dbch\af31505\loch\f1 c}{\rtlch\fcs1 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid744478 
 \par 
 \par 
 \par 
@@ -270,7 +272,7 @@ What is the result of attempting to compile and run the program?
 \widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow6\irowband6\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2729\clshdrawnil \cellx2999\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 b}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 7
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
@@ -315,7 +317,7 @@ What is the result of attempting to compile and run the program\hich\af1\dbch\af
 \widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow6\irowband6\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2702\clshdrawnil \cellx2972\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\cf6\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 f}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\cf6\insrsid1058020\charrsid13400280 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid9246910 
 \par 
@@ -360,10 +362,15 @@ What is the result of attempting to compile and run the program?
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2649\clshdrawnil \cellx2919\row \ltrrow}\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
 \f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 g.\~\cell \hich\af1\dbch\af31505\loch\f1 None of the above\cell }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1
-\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow6\irowband6\lastrow \ltrrow
+\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow6\irowband6\ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
-\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2649\clshdrawnil \cellx2919\row }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 
-\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 9
+\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2649\clshdrawnil \cellx2919\row \ltrrow}\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
+\f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 C
+\par }{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280\charrsid15939040 \cell \cell }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
+\f1\fs28\insrsid13400280\charrsid15939040 \trowd \irow7\irowband7\lastrow \ltrrow\ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr
+\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2649\clshdrawnil \cellx2919\row }\pard\plain \ltrpar
+\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af1\afs28 
+\ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 9
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 class P \{
 \par \hich\af1\dbch\af31505\loch\f1   static void printS1()\{System.out.print("P.printS1 ");\}
@@ -403,11 +410,13 @@ P.printS1 P.printS2\cell }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpa
 }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow5\irowband5\ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2702\clshdrawnil \cellx2972\row \ltrrow}\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 g.\~\cell \hich\af1\dbch\af31505\loch\f1 None of the above\cell }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1
-\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow6\irowband6\lastrow \ltrrow
-\ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
-\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2702\clshdrawnil \cellx2972\row }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 
-\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020 
+\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 g.\~\cell \hich\af1\dbch\af31505\loch\f1 None of the above}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020 
+\par }{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280 
+\par }{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid13400280\charrsid13400280 \hich\af1\dbch\af31505\loch\f1 b\cell }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 
+\af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow6\irowband6\lastrow \ltrrow\ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone 
+\clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2702\clshdrawnil \cellx2972\row }\pard\plain \ltrpar
+\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af1\afs28 
+\ltrch\fcs0 \f1\fs28\insrsid1058020 
 \par 
 \par 
 \par 
@@ -459,7 +468,7 @@ What is the result of attempting to compile and run the program?
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2676\clshdrawnil \cellx2946\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
 \f1\fs28\insrsid1058020\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
-\ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid3284782 
+\ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 b}{\rtlch\fcs1 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid3284782 
 \par 
 \par 
 \par 
@@ -511,7 +520,7 @@ What is the result of attempting to compile and run the program?
 \widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow6\irowband6\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2566\clshdrawnil \cellx2836\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 f}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 12
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
@@ -546,7 +555,8 @@ What is the result of attempting to compile and run the program?
 \widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow3\irowband3\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth1935\clshdrawnil \cellx2205\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\insrsid1058020 
+\par }{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 a}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 13
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
@@ -577,15 +587,19 @@ What is the result of attempting to compile and run the program?
 }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow4\irowband4\ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth1935\clshdrawnil \cellx2205\row \ltrrow}\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 f.\~\cell \hich\af1\dbch\af31505\loch\f1 Compile-time error\cell }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1
-\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow5\irowband5\ltrrow
+\f1\fs28\insrsid13400280\charrsid15939040 \cell \cell }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280\charrsid15939040 
+\trowd \irow5\irowband5\ltrrow\ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone 
+\cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth1935\clshdrawnil \cellx2205\row \ltrrow}\pard \ltrpar
+\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 f.\~\cell \hich\af1\dbch\af31505\loch\f1 Compile-time error\cell }\pard \ltrpar
+\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow6\irowband6\ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth1935\clshdrawnil \cellx2205\row \ltrrow}\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
 \f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 g.\~\cell \hich\af1\dbch\af31505\loch\f1 None of the above\cell }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1
-\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow6\irowband6\lastrow \ltrrow
+\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow7\irowband7\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth1935\clshdrawnil \cellx2205\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\insrsid1058020 
+\par }{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 b}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 14
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
@@ -624,7 +638,7 @@ What is the result of attempting to compile and run the program?
 }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow6\irowband6\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth1935\clshdrawnil \cellx2205\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 c}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 15
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
@@ -721,7 +735,7 @@ A Cat object inherits an instance of Fur and four instances of Leg from the Dog 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 17
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 
-\par \hich\af1\dbch\af31505\loch\f1 class A \{}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid10490615 \hich\af1\dbch\af31505\loch\f1 s}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 
+\par \hich\af1\dbch\af31505\loch\f1 class A \{
 \par \hich\af1\dbch\af31505\loch\f1   A() \{\hich\af1\dbch\af31505\loch\f1 System.out.print("CA ");\}
 \par \hich\af1\dbch\af31505\loch\f1   static \{System.out.print("SA ");\}
 \par \}
@@ -761,7 +775,7 @@ A Cat object inherits an instance of Fur and four instances of Leg from the Dog 
 }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow6\irowband6\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2196\clshdrawnil \cellx2466\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 b}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 18
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
@@ -818,7 +832,8 @@ What is the result of attempting to compile and run the program?
 }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow8\irowband8\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2408\clshdrawnil \cellx2678\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\insrsid1058020 
+\par }{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 b}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 19
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
@@ -881,7 +896,7 @@ What is the result of attempting to compile and run the program?
 }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow9\irowband9\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2729\clshdrawnil \cellx2999\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 B\hich\af1\dbch\af31505\loch\f1  \hich\af1\dbch\af31505\loch\f1     }{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid10778026 \hich\af1\dbch\af31505\loch\f1 `}{\rtlch\fcs1 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 20
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
@@ -934,7 +949,7 @@ What is the result of attempting to compile and run the program?
 }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \trowd \irow7\irowband7\lastrow \ltrrow
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2408\clshdrawnil \cellx2678\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
-\f1\fs28\insrsid1058020\charrsid15939040 
+\f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 b}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 
 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1058020\charrsid15939040 \hich\af1\dbch\af31505\loch\f1 Question 21
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
@@ -987,7 +1002,7 @@ lt of attempting to compile and run the program?
 \ts11\trgaph15\trleft-45\trftsWidth1\trpaddl15\trpaddr15\trpaddfl3\trpaddfr3\tblind-30\tblindtype3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth315\clshdrawnil \cellx270\clvertalt\clbrdrt
 \brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth2348\clshdrawnil \cellx2618\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 
 \f1\fs28\insrsid1058020\charrsid15939040 
-\par \page 
+\par }{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid13400280 \hich\af1\dbch\af31505\loch\f1 d}{\rtlch\fcs1 \af1\afs28 \ltrch\fcs0 \f1\fs28\insrsid1058020\charrsid15939040 \page 
 \par }{\*\themedata 504b030414000600080000002100828abc13fa0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb6ac3301045f785fe83d0b6d8
 72ba28a5d8cea249777d2cd20f18e4b12d6a8f843409c9df77ecb850ba082d74231062ce997b55ae8fe3a00e1893f354e9555e6885647de3a8abf4fbee29bbd7
 2a3150038327acf409935ed7d757e5ee14302999a654e99e393c18936c8f23a4dc072479697d1c81e51a3b13c07e4087e6b628ee8cf5c4489cf1c4d075f92a0b
@@ -1093,18 +1108,18 @@ fffffffffffffffffdffffff04000000feffffff05000000fefffffffeffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff01000000ec69d9888b8b3d4c859eaf6cd158be0f000000000000000000000000900a
-3e6cfb13d2010300000080020000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff020000000000000000000000000000000000000000000000900a3e6cfb13d201
-900a3e6cfb13d201000000000000000000000000cb004b00c700d600da00c2004d00c100330045004b00c20055004e00da00530031003200d60045003500d0003d003d000000000000000000000000000000000032000101ffffffffffffffff030000000000000000000000000000000000000000000000900a3e6cfb13
-d201900a3e6cfb13d2010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
-00000000000000000000000000000000dd00000000000000010000000200000003000000feffffff0500000006000000070000000800000009000000feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff01000000ec69d9888b8b3d4c859eaf6cd158be0f0000000000000000000000009029
+723a7b18d2010300000080020000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff0200000000000000000000000000000000000000000000009029723a7b18d201
+9029723a7b18d20100000000000000000000000045005200ce003300d4003200440055004700550057005800cc00cf004600dd00c2005600c3005400d500c0003d003d000000000000000000000000000000000032000101ffffffffffffffff0300000000000000000000000000000000000000000000009029723a7b18
+d2019029723a7b18d2010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
+00000000000000000000000000000000e800000000000000010000000200000003000000feffffff0500000006000000070000000800000009000000feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3c623a536f757263657320786d6c6e733a623d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f6772617068792220786d6c6e733d
-22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f677261706879222053656c65637465645374796c653d225c4150412e58534c22205374796c654e616d653d224150412046696674682045646974696f6e222f3e0d
-0a00000000000000000000000000000000000000000000000000000000000000000000003c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d226e6f223f3e0d0a3c64733a6461746173746f72654974656d2064733a6974656d49443d227b45414636
-413941432d323132332d343237342d413235302d4445393236444344383437467d2220786d6c6e733a64733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f637573746f6d586d6c223e3c64733a736368656d61526566733e3c
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3c623a536f75726365732053656c65637465645374796c653d225c4150412e58534c22205374796c654e616d653d224150412046696674682045646974696f6e2220786d6c6e733a623d22687474703a2f2f736368656d61732e6f70656e
+786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f6772617068792220786d6c6e733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f677261706879223e3c2f
+623a536f75726365733e0d0a0000000000000000000000000000000000000000000000003c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d226e6f223f3e0d0a3c64733a6461746173746f72654974656d2064733a6974656d49443d227b44313944
+314231312d443443302d343531392d393742322d4631374438393538443344367d2220786d6c6e733a64733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f637573746f6d586d6c223e3c64733a736368656d61526566733e3c
 64733a736368656d615265662064733a7572693d22687474703a2f2f736368656d61732e6f70656e500072006f007000650072007400690065007300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000200ffffffffffffffffffffffff000000000000
 0000000000000000000000000000000000000000000000000000000000000400000055010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000

@@ -1,0 +1,22 @@
+import Bank.*;
+
+public class TellerAgent  {
+private int agentid;
+private Bank bank;
+public TellerAgent(Bank b,int agentid){
+	this.bank=b;
+	this.agentid=agentid;
+}
+
+public void doTransaction( int from, int to,double amount){
+	bank.getAccount(from).withdraw(amount);
+	bank.getAccount(to).deposit(amount);
+}
+/* For MASTER/VISA
+public void doTransaction(Bank b, int from, Bank c,int to,double amount){
+	b.getAccount(from).withdraw(amount);
+	c.getAccount(to).deposit(amount);
+}
+*/
+
+}

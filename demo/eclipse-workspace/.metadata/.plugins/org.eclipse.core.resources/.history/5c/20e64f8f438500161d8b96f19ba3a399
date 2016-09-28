@@ -1,0 +1,8 @@
+import java.util.List;
+
+public class Bank {
+private int bankid;
+private String bankName;
+List<Account> accounts;
+
+}

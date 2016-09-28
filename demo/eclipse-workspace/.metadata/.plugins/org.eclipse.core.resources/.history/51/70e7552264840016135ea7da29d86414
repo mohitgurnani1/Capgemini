@@ -1,0 +1,10 @@
+package tp;
+
+class As {void m1() {System.out.print("A.m1");}}
+class Bs extends As {
+  void m1() {System.out.print("B.m1");}
+  static void m1(String s) {System.out.print(s+",");}
+}
+class C {
+  public static void main (String[] args) {Bs.m1("main"); new Bs().m1();}
+}

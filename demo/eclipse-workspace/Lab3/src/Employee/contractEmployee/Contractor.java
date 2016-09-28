@@ -16,7 +16,6 @@ public class Contractor {
 	 public class ContractEmployee extends Employee{
 
 			String name;
-			
 			protected double salary;
 			public ContractEmployee(String fname, String lname, int i, int j, String grade, MyDate md, String name) {
 				super(fname, lname,  0,grade,md);
@@ -24,6 +23,7 @@ public class Contractor {
 				Contractor.this.name=name;
 				salary=i*j;
 				countCE++;
+				
 			}
 
 			public  String getContractorName(){

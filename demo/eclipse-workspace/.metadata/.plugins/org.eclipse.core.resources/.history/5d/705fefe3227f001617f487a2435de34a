@@ -1,9 +1,0 @@
-
-public class PermanentEmployee extends Employee {
-
-	public PermanentEmployee(String fname, String lname, double salary, String grade, MyDate joiningmonth) {
-		super(fname, lname, salary, grade, joiningmonth);
-		// TODO Auto-generated constructor stub
-	}
-
-}

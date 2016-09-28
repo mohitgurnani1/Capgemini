@@ -1,0 +1,12 @@
+
+public class Client {
+
+	public static void main(String[] args){}
+
+/*	MyThread mythread=new MyThread();
+Thread thread=new Thread(mythread);
+*/
+	System.out.println("hi");
+
+
+}

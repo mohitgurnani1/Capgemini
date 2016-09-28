@@ -1,0 +1,17 @@
+
+public class TellerAgent {
+private int agentid;
+
+
+public void doTransaction(Bank b, int from, int to,double amount){
+	b.getAccount(from).withdraw(amount);
+	b.getAccount(to).deposit(amount);
+}
+
+public void doTransaction(Bank b, int from, Bank c,int to,double amount){
+	b.getAccount(from).withdraw(amount);
+	c.getAccount(to).deposit(amount);
+}
+
+
+}

@@ -10,9 +10,9 @@ public class sampleException {
 		
 		String a = "abcd";          // 1
 	    String b = "'\u0041'";      // 2
-	    String c = "\u0041";        // 3
+	    String c = "\u0041hi bhai";        // 3
 	    String d = "\uD7AF";        // 4
-	  ;
+	 System.out.println(a+b+c+d); 
 
 //	  System.out.print(m);  // 5
 

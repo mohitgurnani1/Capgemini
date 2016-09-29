@@ -1,0 +1,43 @@
+package com.flp.ems.view;
+
+import java.util.Scanner;
+
+public class BootClass {
+private static Scanner scan;
+	
+	public static void main(String[] args){
+		
+		scan=new Scanner(System.in);
+		
+		System.out.println("Welcome to Employee Management System");
+		menuSelection();
+		
+		
+		
+	}
+
+	private static void menuSelection() {
+		
+		int option=0;
+		do{
+		
+			System.out.println("Please Select an option:.\n1.Create an Employee\n2.Modify an Employee\n3.Remove an Employee\n4.Search an Employee\n5.Display All Employee\n6. Exit");
+			option=scan.nextInt();
+			
+		switch(option){
+		
+		case 1:
+		
+		
+		
+		}	
+			
+			
+			
+		}while(option!=6);
+	
+		
+		
+	}
+	
+}

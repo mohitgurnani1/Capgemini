@@ -1,0 +1,46 @@
+package com.flp.ems.view;
+
+import java.util.Scanner;
+
+public class UserInteraction {
+private static Scanner scan;
+
+static{
+	scan=new Scanner(System.in);
+}
+	public static void addEmployee() {
+		
+		System.out.println("ADD EMPLOYEE\n Enter personal Information");
+		
+		System.out.println("Enter Name:");
+		BootClass.
+		
+		
+		
+	}
+	
+
+	public static void modifyEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+	public static void removeEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+	public static void searchEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+	public static void getAllEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

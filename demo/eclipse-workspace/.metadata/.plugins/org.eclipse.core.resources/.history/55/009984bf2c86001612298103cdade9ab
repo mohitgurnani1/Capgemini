@@ -1,0 +1,90 @@
+package com.flp.ems.view;
+
+import java.util.HashMap;
+import java.util.Scanner;
+
+import com.flp.ems.service.EmployeeServiceImpl;
+
+public class UserInteraction {
+private static Scanner scan;
+
+static{
+	scan=new Scanner(System.in);
+}
+	public static void addEmployee() {
+		HashMap<String, String> emp=new HashMap<String,String>();
+		EmployeeServiceImpl e=new EmployeeServiceImpl();
+		
+		System.out.println("ADD EMPLOYEE\n Enter your  Information");
+		
+		System.out.println("Enter Name:");
+		emp.put("name", scan.nextLine());
+		
+		System.out.println("Enter Phone no:");
+		emp.put("phoneNo", scan.nextLine());
+		
+		System.out.println("Enter Address:");
+		emp.put("address", scan.nextLine());
+		
+		System.out.println("Enter Date of birth:");
+		emp.put("dob", scan.nextLine());
+		
+		System.out.println("Enter Date of Joining:");
+		emp.put("doj", scan.nextLine());
+		
+		System.out.println("Enter Department:");
+		
+		HashMap deptlist=e.getDepartmentList();
+		for(Object dept:deptlist.keySet())
+		{
+			System.out.println((String)dept); 
+		}
+		String deptId=scan.nextLine();
+		emp.put("dept",deptId );
+		
+		System.out.println("Enter Project:");
+		
+		HashMap projlist=e.getProjectList(deptId);
+		for(Object proj:projlist.keySet())
+		{
+			System.out.println((String)proj); 
+		}
+		emp.put("project", scan.nextLine());
+		
+		System.out.println("Enter Roles:");
+
+		HashMap roleslist=e.getRolesList();
+		for(Object role:roleslist.keySet())
+		{
+			System.out.println((String)role); 
+		}
+		emp.put("role", scan.nextLine());
+		e.AddEmployee(emp);
+		
+	}
+	
+
+	public static void modifyEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+	public static void removeEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+	public static void searchEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+	public static void getAllEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

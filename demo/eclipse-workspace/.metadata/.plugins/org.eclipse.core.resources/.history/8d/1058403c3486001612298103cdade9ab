@@ -1,0 +1,67 @@
+package com.flp.ems.dao;
+
+import java.util.ArrayList;
+
+import com.flp.ems.domain.Department;
+import com.flp.ems.domain.Employee;
+import com.flp.ems.domain.Project;
+import com.flp.ems.domain.Role;
+
+public class EmployeeDaoImplForList implements IEmployeeDao {
+ArrayList<Employee> empList;
+ArrayList<Department> deptList;
+ArrayList<Project> projectList;
+ArrayList<Role> roleList;
+	
+ public EmployeeDaoImplForList() {
+empList=new ArrayList<Employee>();
+deptList=new ArrayList<Department>();
+projectList=new ArrayList<Project>();
+roleList=new ArrayList<Role>();
+}
+
+	@Override
+	public boolean AddEmployee(Employee emp) {
+		empList.add(emp);
+		return true;
+	}
+
+	@Override
+	public boolean ModifyEmployee(Employee emp) {
+		String empId=emp.getEmpId();
+		Employee temp=null;
+		for(Employee e: empList){
+			if(e.getEmailId().equals(empId))
+			{
+			temp=e;
+			break;
+			}
+		}
+		if(temp!=null){
+		empList.remove(temp);
+		empList.add(emp);
+		return true;
+		}
+		else
+		return false;
+	}
+
+	@Override
+	public boolean RemoveEmployee(String empId) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Employee SearchEmployee(String empId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Employee[] getAllEmployee(String empId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

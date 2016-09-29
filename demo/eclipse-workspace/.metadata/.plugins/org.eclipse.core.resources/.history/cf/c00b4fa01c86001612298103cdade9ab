@@ -1,0 +1,37 @@
+import org.junit.Test;
+
+public class Service {
+
+	@Test
+	public void checkRolesList(){
+		
+	}
+	
+	@Test
+	public void checkDepartmentList(){
+		
+	}
+
+	@Test
+	public void checkProjectList(){
+		
+	}
+
+	@Test
+	public void createEmployeeId(){
+		
+	}
+
+	@Test
+	public void createKinId(){
+		
+	}
+	@Test
+	public void createRolesId(){
+		
+	}
+
+
+
+
+}

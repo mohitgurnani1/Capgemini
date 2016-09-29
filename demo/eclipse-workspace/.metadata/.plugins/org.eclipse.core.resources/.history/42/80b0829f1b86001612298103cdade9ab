@@ -1,0 +1,22 @@
+import org.junit.Test;
+
+public class Service {
+
+	@Test
+	public void checkRolesList(){
+		
+	}
+	
+	@Test
+	public void checkDepartmentList(){
+		
+	}
+
+	@Test
+	public void checkProjectList(){
+		
+	}
+
+
+
+}

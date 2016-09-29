@@ -1,0 +1,45 @@
+import java.util.HashMap;
+
+import org.junit.Test;
+import com.flp.ems.service.*;
+
+import junit.framework.Assert;
+public class Service {
+
+	@Test
+	public void checkRolesList(){
+		
+		HashMap<String,String> roles=EmployeeServiceImpl.getRolesList();
+		assert  roles.isEmpty()==false :  "Roles not initialized";
+	}
+	
+
+
+	@Test
+	public void checkDepartmentList(){
+		
+	}
+
+	@Test
+	public void checkProjectList(){
+		
+	}
+
+	@Test
+	public void createEmployeeId(){
+		
+	}
+
+	@Test
+	public void createKinId(){
+		
+	}
+	@Test
+	public void createRolesId(){
+		
+	}
+
+
+
+
+}

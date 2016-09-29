@@ -1,9 +1,9 @@
 
 public class Consumer implements Runnable{
 
-	Container c;
+	Container2 c;
 	
-	public Consumer(Container c){
+	public Consumer(Container2 c){
 		this.c=c;
 	}
 		

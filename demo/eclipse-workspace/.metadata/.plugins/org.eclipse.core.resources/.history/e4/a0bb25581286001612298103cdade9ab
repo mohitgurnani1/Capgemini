@@ -1,0 +1,34 @@
+package com.flp.ems.view;
+
+public class UserInteraction {
+
+	public static void addEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+	public static void modifyEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+	public static void removeEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+	public static void searchEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+	public static void getAllEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

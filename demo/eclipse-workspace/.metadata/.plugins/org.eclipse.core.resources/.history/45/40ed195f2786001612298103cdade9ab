@@ -1,0 +1,14 @@
+package com.flp.ems.domain;
+
+import java.util.Date;
+
+public class Employee {
+
+	private String empId,name,kinId,emailId,phoneNo,address;
+	private Date dob,doj;
+	private Department depid;
+	private Project projid;
+	private Role roleid;
+	
+	
+}

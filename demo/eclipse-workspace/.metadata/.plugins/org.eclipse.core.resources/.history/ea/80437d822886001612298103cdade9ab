@@ -1,0 +1,93 @@
+package com.flp.ems.service;
+
+import java.util.HashMap;
+
+public class EmployeeServiceImpl implements IEmployeeService {
+
+	@Override
+	public boolean AddEmployee(HashMap emp) {
+		// TODO Auto-generated method stub
+		
+		String empId=generateEmployeeId();
+		String emailId=generateEmailId();
+		String kinId=generateKinId();
+		
+		return false;
+	}
+
+	private String generateEmailId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	private String generateKinId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	private String generateEmployeeId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean ModifyEmployee(HashMap emp) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean RemoveEmployee(String empId) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public HashMap SearchEmployee(String empId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public HashMap[] getAllEmployee(String empId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public  HashMap<String, String> getRolesList() {
+		HashMap<String,String> roles=new HashMap();
+		roles.put("r1", "Developer");
+		roles.put("r2", "Tech Lead");
+		roles.put("r3", "Manager");
+		
+		
+		return roles;
+	}
+
+	public  HashMap<String, String> getDepartmentList() {
+		HashMap<String,String> dept=new HashMap();
+		
+		dept.put("d1", "Dept1");
+		dept.put("d2", "Dept2");
+		dept.put("d3", "Dept3");
+		
+		
+		return dept;
+	}
+	
+	public  HashMap<String, String> getProjectList(HashMap<String, String> dept) {
+		
+		HashMap<String,String> project=new HashMap();
+		project.put("p1", "Proj 1");
+		project.put("p2", "Proj 2");
+		project.put("p3", "Proj 3");
+		project.put("p4", "Proj 4");
+		project.put("p5", "Proj 5");
+		project.put("p6", "Proj 6");
+		
+		
+		return project;
+	}
+	
+
+}

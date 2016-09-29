@@ -1,0 +1,10 @@
+package com.flp.ems.view;
+
+public class UserInteraction {
+
+	public static void addEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

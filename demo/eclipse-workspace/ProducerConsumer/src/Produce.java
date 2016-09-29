@@ -1,9 +1,9 @@
 
 public class Produce implements Runnable {
 
-	Container c;
+	Container2 c;
 	
-	public Produce(Container c){
+	public Produce(Container2 c){
 		this.c=c;
 	}
 	

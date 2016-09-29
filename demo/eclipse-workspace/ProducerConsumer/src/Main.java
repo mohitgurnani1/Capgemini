@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args){
 		
-		Container c=new Container();
+		Container2 c=new Container2();
 		Runnable producer=new Produce(c);
 		Runnable consume=new Consumer(c);
 		

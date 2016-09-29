@@ -1,8 +1,0 @@
-
-
-public class EmployeeNotFoundException {
-	public static void main(String[] args) {
-		return "Employee not found with above id";
-		
-	}
-}

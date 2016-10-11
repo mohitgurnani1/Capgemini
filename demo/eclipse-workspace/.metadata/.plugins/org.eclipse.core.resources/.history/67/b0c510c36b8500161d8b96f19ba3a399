@@ -1,8 +1,0 @@
-
-public class Consumer {
-
-	public void consume(Container c){
-		c.get();
-	}
-	
-}

@@ -1,0 +1,28 @@
+package com.flp.ems.dao;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Properties;
+
+public class JDBC {
+
+	public static void main(String[] args){
+		
+		Properties prop=new Properties();
+		try {
+			prop.load(new FileInputStream("dbDetails.properties"));
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		
+		
+		
+		
+		
+	}
+	
+}

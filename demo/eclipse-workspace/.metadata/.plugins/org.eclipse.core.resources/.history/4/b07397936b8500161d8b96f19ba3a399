@@ -1,8 +1,0 @@
-
-public class Produce implements Runnabler {
-
-	public void produce(Container c){
-		c.put();
-	}
-	
-}

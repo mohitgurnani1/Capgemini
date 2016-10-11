@@ -1,9 +1,0 @@
-
-public class Client {
-
-	public static void main(String[] args){}
-
-Runnable mythread=new MyThread();
-Thread t1=new Thread(mythread,"Roshita");
-
-}

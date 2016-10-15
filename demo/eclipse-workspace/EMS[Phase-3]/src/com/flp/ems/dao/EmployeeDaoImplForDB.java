@@ -31,12 +31,15 @@ public class EmployeeDaoImplForDB implements IEmployeeDao {
 		prop=new Properties();
 		try
 		{
-		prop.load(new FileInputStream("D:\\dbDetails.properties"));
+	
+			prop.load(this.getClass().getClassLoader().getResourceAsStream("dbDetails.properties"));
+			
+			//prop.load(new FileInputStream("D:/git/Capgemini/demo/eclipse-workspace/EMS[Phase-3]/properties/dbDetails.properties"));
 		Class.forName(prop.getProperty("jdbc.driver"));
 		String url=prop.getProperty("jdbc.url");
 		String uname=prop.getProperty("jdbc.username");
 		String pwd=prop.getProperty("jdbc.password");
-		conn=DriverManager.getConnection(url,uname,pwd);
+		conn=DriverManager.getConnection(url);
 		}
 		catch(Exception e){
 			e.printStackTrace();

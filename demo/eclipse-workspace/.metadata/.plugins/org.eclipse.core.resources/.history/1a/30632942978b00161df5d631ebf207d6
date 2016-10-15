@@ -1,8 +1,0 @@
-package tp;
-
-class D extends C {
-	  public static void main (String[] args) {
-java.util.Date d1=new java.util.Date();
-
-	  
-	  }}

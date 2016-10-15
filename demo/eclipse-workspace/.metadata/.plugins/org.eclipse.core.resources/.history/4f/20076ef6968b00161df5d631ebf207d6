@@ -1,7 +1,0 @@
-package tp;
-
-class D extends C {
-	  public static void main (String[] args) {
-	   
-	  
-	  }}

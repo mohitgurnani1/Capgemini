@@ -125,7 +125,28 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log." suffix=".txt"/>
 
-      <Context docBase="D:\git\Capgemini\demo\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\git\Capgemini\demo\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\EMS[Phase-3]" path="/EMS_Phase_3" reloadable="true" source="org.eclipse.jst.jee.server:EMS[Phase-3]"/><Context docBase="D:\git\Capgemini\demo\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Demo@SpringMVC" path="/tryMVC" reloadable="true" source="org.eclipse.jst.jee.server:Demo@SpringMVC"/><Context docBase="D:\git\Capgemini\demo\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Demo@FormHandlingSpring" path="/forms" reloadable="true" source="org.eclipse.jst.jee.server:Demo@FormHandlingSpring"/></Host>
+      <Context docBase="C:\Users\Mohit\Documents\GitHub\Capgemini\demo\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Mohit\Documents\GitHub\Capgemini\demo\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\EMS[Phase-4]" path="/EMS_Phase_4" reloadable="true" source="org.eclipse.jst.jee.server:EMS[Phase-4]">
+         
+<!-- 
+		Following element defines a reference lookup name to an external resource. 
+		This external resource is type of javax.sql.DataSource.  
+		The configuration of this resource is also done in WEB-INF\web.xml
+		Don't forget to add required jdbc driver(jar) in WEB-INF\lib.  			
+-->
+
+<Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/MyDataSource" password="" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/ems" username="root"/>
+              
+<!--
+This resource is for ORACLE DATABASE. 
+<Resource name="jdbc/VIMDataSource" auth="Container"
+              type="javax.sql.DataSource" maxActive="100" 
+              maxIdle="30" maxWait="10000"
+              username="VIM" password="seed123" 
+              driverClassName="oracle.jdbc.driver.OracleDriver"
+              url="jdbc:oracle:thin:@localhost:1521:XE"/> 
+   -->      
+                    
+</Context></Host>
     </Engine>
   </Service>
 </Server>

@@ -2,6 +2,9 @@ package com.flp.ems.domain;
 
 import java.util.Date;
 
+import org.springframework.stereotype.Repository;
+
+@Repository
 public class Employee {
 
 	private String empId,name,kinId,emailId,phone,address;

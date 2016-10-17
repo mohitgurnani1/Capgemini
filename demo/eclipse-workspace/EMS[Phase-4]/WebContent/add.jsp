@@ -48,6 +48,7 @@ document.getElementById('project').innerHTML=val;
 		 <%@ page import="java.util.*" %>
 		<%@ page import="org.springframework.web.context.WebApplicationContext"   %>
 		<%@page import="org.springframework.web.context.support.WebApplicationContextUtils" %>
+		<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>   
 		
 		
 			
@@ -88,33 +89,33 @@ document.getElementById('project').innerHTML=val;
 		
 		<div class="row">
 		<div class="col-md-6">
-		<form name="addEmp" action="addServlet" method="post">
+		<form:form name="addEmp" action="addController" method="post" commandName="employee" >
 		  <div class="form-group">
 			<label for="name">Name:</label>
-			<input type="text" class="form-control" id="name" name="name">
+			<form:input path="name" class="form-control"  />
 		  </div>
 		  <div class="form-group">
 			<label for="phoneNo">Phone no:</label>
-			<input type="text" class="form-control" id="phoneNo" name="phoneNo">
+			<form:input path="phone" class="form-control" id="phoneNo" name="phoneNo" />
 		  </div>
 		  <div class="form-group">
 			<label for="address">Address:</label>
-			<input type="text" class="form-control" id="address" name="address">
+			<form:input path="address" class="form-control" id="address" name="address" />
 		  </div>
 		<div class="form-group">
 			<label for="dob">Date of Birth:</label>
-			<input type=date class="form-control" id="dob" name="dob">
+			<form:input path="dob" class="form-control" place-holder="yyyy-MM-dd" id="dob" name="dob" />
 		  </div>
 		  		 
 		 <div class="form-group">
 			<label for="doj">Date of Joining:</label>
-			<input type=date class="form-control" id="doj" name="doj">
+			<form:input path="doj" class="form-control"  place-holder="yyyy-MM-dd"  id="doj" name="doj" />
 		  </div>
 		  </div>
 		  <div class="col-md-6">
 			  <div class="form-group">
 						<label for="dept">Select Department:</label>
-						<select class="form-control" id="dept" name="dept" onclick="sendInfo()">
+						<form:select path="deptId" class="form-control" id="dept" name="dept" onclick="sendInfo()">
    
 				<%	
 				WebApplicationContext applicationContext = WebApplicationContextUtils.getRequiredWebApplicationContext(getServletContext());
@@ -130,28 +131,29 @@ document.getElementById('project').innerHTML=val;
 						Map.Entry<String, String> m=(Map.Entry<String, String>)dept;
 						 
 					%>  
-					 <option value="<%=(String)m.getKey()%>"><%=(String)m.getValue()%></option>
+					 <form:option value="<%=(String)m.getKey()%>"><%=(String)m.getValue()%></form:option>
 					<%
 						}
 					%>
 			
-			</select>
+			</form:select>
 			</div>
 			
 			 <div class="form-group">
 						<label for="project">Select Projects:</label>
-					  <select multiple class="form-control" id="project" name="project">
+					  <form:select  path="projId"  multiple class="form-control" id="project" name="project" >
 								 
 					 
-					  </select>
+					  </form:select>
 				</div>	  
 			
 			 <div class="form-group">
 					<label for="role">Select Role:</label>
-	<select class="form-control" id="role" name="role">
+	<form:select path="roleId" class="form-control" id="role" name="role">
    				 
 					 <%
-	HashMap roleslist=e.getRolesList();
+					
+	HashMap<String,String> roleslist=e.getRolesList();
 	
 		Set set3=roleslist.entrySet();
 		for(Object role:set3)
@@ -161,7 +163,7 @@ document.getElementById('project').innerHTML=val;
 
 %>
 					 
-								 <option value="<%=(String)m.getKey()%>"><%=(String)m.getValue()%></option>
+								 <form:option value="<%=(String)m.getKey()%>"><%=(String)m.getValue()%></form:option>
 			
 									
 
@@ -169,7 +171,7 @@ document.getElementById('project').innerHTML=val;
 		}
 	
 %>
-</select>
+</form:select>
 			</div>
 
 
@@ -180,8 +182,7 @@ document.getElementById('project').innerHTML=val;
 		  <button type="submit" class="btn btn-default">Submit</button>
 		</center>
 		<br>
-		
-		</form>
+		</form:form>
 		<br>
 		<br>
 	

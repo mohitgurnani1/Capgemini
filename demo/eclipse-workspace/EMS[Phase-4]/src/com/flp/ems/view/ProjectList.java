@@ -54,7 +54,7 @@ public class ProjectList extends HttpServlet {
 			for(Object proj:set2)
 			{
 				Map.Entry<String, String> m=(Map.Entry<String, String>)proj;
-						out.write(" <option value="+(String)m.getKey()+">"+(String)m.getValue()+"</option>");
+						out.write(" <form:option value="+(String)m.getKey()+">"+(String)m.getValue()+"</form:option>");
 			}
 	
 	}
